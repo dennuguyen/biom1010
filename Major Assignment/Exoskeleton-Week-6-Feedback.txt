@@ -1,0 +1,55 @@
+Broad overview of state of the art    4/5
+
+-           Does not mention what the device looks like
+
+-           Description of how the device works
+
+-           Describes how the state of the art reached the current stage
+
+ 
+
+ 
+
+Specify the problem the device is meant to fix                                                           5/5
+
+-           Mentions what problem is, consequences however focus on one type of injury to put more detail into. Currently too broad
+
+-           Only outlines what the device is meant to do – mentions how
+
+-           Explains the need for the device
+
+ 
+
+ 
+
+Has the group addressed the local or global health issues                                                    1/5
+
+-           Does not mention prevalence of the problem
+
+-           Mentions how the device address the health issue
+
+ 
+
+ 
+
+Has the group identified the relevant anatomy AND/OR physiology associated with the device?
+
+5/10 
+
+-           Anatomy and physiology described for a functional muscle activity (very briefly)
+
+-           Anatomy and physiology described for a different types of diseases (very briefly)
+
+-           Describes how the device interacts with the disease
+
+ 
+
+Side Notes
+
+-           References are well done
+
+-           You have spent way many word on the industrial side of exoskeleton, too tangential considering you are only focused on the biomedical side (1-2 sentence on the industrial side is more than enough)
+
+-           Report formatting is good and well written, however it does missing a lot of required information
+
+-           VERY OVER WORD COUNT!!

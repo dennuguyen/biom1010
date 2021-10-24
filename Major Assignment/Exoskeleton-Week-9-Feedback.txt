@@ -1,0 +1,61 @@
+BIOM1010 Feedback Sheet Assignment Two
+
+ 
+
+Table of Contents 5/5
+
+-        Minor note: I would put 2.1 over i. to distinguish between different sections
+
+ 
+
+Device Design Section 8/10
+
+ 
+
+How does it work?
+
+-        Describes how the system works as a whole
+
+-        Describes the components of the system and the purpose of the component
+
+ 
+
+What is it made of?
+
+-        Describes the material properties required for the system and why these properties are required
+
+-        What about the other components of the exoskeletal frame?? (The control systems side?)
+
+ 
+
+What design features distinguish it from other systems or devices that address the same problem?
+
+-        Comparison made with a system that addresses the same problem – Describes differences
+
+-        Design features established between two systems
+
+ 
+
+Annotated Bibliography 9/10
+
+ 
+
+5-10 References selected
+
+-        Well done
+
+2-3 sentences describing type of reference and why you have used the reference for each selected article? Refer to referencing tutorial for more information.
+
+-        The reliability of the sources is not specified in many of the resources
+
+Appropriate selection of good quality references
+
+-        Well done
+
+ 
+
+Side note:
+
+-        For your final work make sure there are page numbers at the bottom of each page
+
+-        Make sure your sections in your ToC match the sections in your report
